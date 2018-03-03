@@ -2,6 +2,7 @@
   <div class="hello">
     <h1>{{ msg }}</h1>
     <p>
+      <!-- Angular application running on VueJS -->
       <app-hello-world style="border: 1px solid red;display:block" greetings=", from VueJS appliction"></app-hello-world>
       For guide and recipes on how to configure / customize this project,<br>
       check out the
